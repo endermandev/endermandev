@@ -3,8 +3,8 @@ Hello everyone, welcome to the official Enderman Github page! I am usually moddi
 
 ## Fortnite
 I am a bit known in the Fortnite Modding Community. I am not the most known <3<br>
-<b>How am I known in this community?</b>
-I am mainly known for <a href="https://dsc.gg/voltaic">Voltaic</a> and for open-sourcing a fixed version of Nova V2 (4.5 Fortnite Gameserver)
+<b>How am I known in this community?</b><br>
+I am mainly known for <a href="https://dsc.gg/voltaic">Voltaic</a> and for open-sourcing a fixed version of Nova V2 (4.5 Fortnite Gameserver)<br>
 
 <h3><b>Current Projects</b></h3>
 <a href="https://dsc.gg/voltaic">Voltaic</a> (MP Focused Fortnite Private Server)<br>
