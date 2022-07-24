@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome!
+Hello everyone, welcome to the official Enderman Github page! I am usually modding Fortnite, Minecraft and/or working on my own games<br><br>
 
-<!--
-**endermandev/endermandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fortnite
+I am a bit known in the Fortnite Modding Community. I am not the most known <3<br>
+<b>How am I known in this community?</b>
+I am mainly known for <a href="https://dsc.gg/voltaic">Voltaic</a> and for open-sourcing a fixed version of Nova V2 (4.5 Fortnite Gameserver)
 
-Here are some ideas to get you started:
+<h3><b>Current Projects</b></h3>
+<a href="https://dsc.gg/voltaic">Voltaic</a> (MP Focused Fortnite Private Server)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b><h3>Cancelled Projects</b></h3>
+Atomic (A STW Fortnite Private server)<br><br>
